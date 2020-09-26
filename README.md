@@ -1,2 +1,2 @@
 # Trex-game
-Trex is a offline
+Trex is an offline game.
